@@ -1,0 +1,11 @@
+[Enderecos válidos:]
+0
+1
+2
+3
+4
+
+[Enderecos inválidos:]
+0
+1
+2
